@@ -1,1 +1,0 @@
-This project is a simple yet effective implementation of a distance calculator using an Arduino Uno, HC-SR04 Ultrasonic Sensor, LED, and Buzzer. The device can measure distances within the range of 2 cm to 400 cm and provides both visual (LED) and auditory (buzzer) alerts when an object crosses a specified threshold distance.
